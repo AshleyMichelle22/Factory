@@ -1,0 +1,15 @@
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\FactoryExerciseDessert.csproj.AssemblyReference.cache
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\FactoryExerciseDessert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\FactoryExerciseDessert.AssemblyInfoInputs.cache
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\FactoryExerciseDessert.AssemblyInfo.cs
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\FactoryExerciseDessert.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\bin\Debug\net6.0\FactoryExerciseDessert.exe
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\bin\Debug\net6.0\FactoryExerciseDessert.deps.json
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\bin\Debug\net6.0\FactoryExerciseDessert.runtimeconfig.json
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\bin\Debug\net6.0\FactoryExerciseDessert.dll
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\bin\Debug\net6.0\FactoryExerciseDessert.pdb
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\FactoryExerciseDessert.dll
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\refint\FactoryExerciseDessert.dll
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\FactoryExerciseDessert.pdb
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\FactoryExerciseDessert.genruntimeconfig.cache
+C:\Users\ashle\source\repos\FactoryExerciseDessert\FactoryExerciseDessert\obj\Debug\net6.0\ref\FactoryExerciseDessert.dll
